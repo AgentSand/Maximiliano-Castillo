@@ -1,2 +1,6 @@
 Realizando la carga de mi primer repositorio.
+<<<<<<< Updated upstream
 Agregando una línea  al txt
+=======
+Otra Línea agregada desde mi notebook
+>>>>>>> Stashed changes
